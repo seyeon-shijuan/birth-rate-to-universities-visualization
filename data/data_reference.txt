@@ -1,0 +1,13 @@
+2. 대학 순위 데이터셋
+
+
+한국교육개발원_모집인원 및 입학정원_대학
+https://www.data.go.kr/data/15050052/fileData.do
+신입생 충원 현황 (대학)_2023-02-0810446231
+university_enrollment_2023
+
+
+한국장학재단_대학별 장학금 수혜 현황
+https://www.data.go.kr/data/15038576/fileData.do?recommendDataYn=Y
+한국장학재단_대학별 장학금 수혜 현황_20220831
+university_scholarship_2022

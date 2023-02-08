@@ -1,13 +1,36 @@
+1. 인구 분석 데이터셋
+
+연령별 인구현황
+https://jumin.mois.go.kr/ageStatMonth.do#none
+RAW: 202301_202301_연령별인구현황_월간.csv
+age_18_by_city.csv
+
+
+교육부_전국대학교개황
+https://www.data.go.kr/data/15100330/fileData.do
+RAW: 학교개황(20220310기준).xls
+university_list_2022.csv
+
+통계청 출생아수, 합계출산율, 자연증가 등
+https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1B8000F_01&conn_path=I3
+RAW: 출생아수__합계출산율__자연증가_등_20230208133259.csv
+maternity_data.csv
+
+통계청 장래인구추계 출생아수와 합계출산율 1790 ~ 2070년
+https://kosis.kr/statHtml/statHtml.do?mode=tab&orgId=101&tblId=DT_POPULATION_06
+RAW: 출생아수와_합계출산율_20230208135054.csv
+newborn_future.csv
+
 2. 대학 순위 데이터셋
 
 
 한국교육개발원_모집인원 및 입학정원_대학
 https://www.data.go.kr/data/15050052/fileData.do
-신입생 충원 현황 (대학)_2023-02-0810446231
-university_enrollment_2023
+RAW: 신입생 충원 현황 (대학)_2023-02-0810446231.xlsx
+university_enrollment_2023.csv
 
 
 한국장학재단_대학별 장학금 수혜 현황
 https://www.data.go.kr/data/15038576/fileData.do?recommendDataYn=Y
-한국장학재단_대학별 장학금 수혜 현황_20220831
-university_scholarship_2022
+RAW: 한국장학재단_대학별 장학금 수혜 현황_20220831.csv
+university_scholarship_2022.csv

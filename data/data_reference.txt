@@ -21,6 +21,14 @@ https://kosis.kr/statHtml/statHtml.do?mode=tab&orgId=101&tblId=DT_POPULATION_06
 RAW: 출생아수와_합계출산율_20230208135054.csv
 newborn_future.csv
 
+시도/출생장소별 출생 1991 ~ 2021년
+https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B81A02&conn_path=I2
+Raw: 시도_출생장소별_출생_20230208150610.csv
+newborn_by_city.csv
+
+
+
+
 2. 대학 순위 데이터셋
 
 
@@ -34,3 +42,4 @@ university_enrollment_2023.csv
 https://www.data.go.kr/data/15038576/fileData.do?recommendDataYn=Y
 RAW: 한국장학재단_대학별 장학금 수혜 현황_20220831.csv
 university_scholarship_2022.csv
+

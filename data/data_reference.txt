@@ -26,7 +26,11 @@ https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B81A02&conn_path=I2
 Raw: 시도_출생장소별_출생_20230208150610.csv
 newborn_by_city.csv
 
-
+QS_세계대학순위_한국추출_2023
+https://www.topuniversities.com/university-rankings/world-university-rankings/2023
+https://allaboutwealth.tistory.com/1180
+Raw: QS_세계대학순위_한국추출_2023.csv
+qs_korean_uni_rank_2023.csv
 
 
 2. 대학 순위 데이터셋

@@ -37,7 +37,7 @@
  * ☑️[연령별 인구현황](https://jumin.mois.go.kr/ageStatMonth.do#none)
  * ☑️[교육부 전국대학교개황](https://www.data.go.kr/data/15100330/fileData.do)
  * ☑️[통계청 출생아수, 합계출산율, 자연증가 등](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1B8000F_01&conn_path=I3)
- * ☑️[통계청 장래인구추계 출생아수와 합계출산율 1790 ~ 2070년](https://kosis.kr/statHtml/statHtml.do?mode=tab&orgId=101&tblId=DT_POPULATION_06)
+ * ☑️[통계청 장래인구추계 출생아수와 합계출산율 1990 ~ 2070년](https://kosis.kr/statHtml/statHtml.do?mode=tab&orgId=101&tblId=DT_POPULATION_06)
  * ☑️[한국교육개발원 모집인원 및 입학정원 대학](https://www.data.go.kr/data/15050052/fileData.do)
  * ☑️[한국장학재단 대학별 장학금 수혜 현황](https://www.data.go.kr/data/15038576/fileData.do?recommendDataYn=Y)
  ---
